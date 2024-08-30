@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
-    <title>CP Timeticker</title>
+    <title>MK Timeticker</title>
   </head>
   <body>
     <center>
@@ -26,10 +26,10 @@
 
 <script>
 window.onload = function() {
-  initializeLiff('2006172606-J7GOXYO0');
+  initializeLiff('1657422850-4dMOevYl');
 }
 
-const xurl = "https://script.google.com/macros/s/AKfycbyJfjqF0q9QmqLHssOgwRk82YkDgoaeDAzfg6PS7pITgfQ2g3tGId59Y2mUw5DZtJFg/exec";
+const xurl = "https://script.google.com/macros/s/AKfycbyD8kN9xteg87TbSTqoE8jIOuDsw94b4H1otizZPF5r9GvTOCCogAjLi92J9uCRX6NUPg/exec";
 
 /**
 function checks(){
