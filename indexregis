@@ -29,7 +29,7 @@ window.onload = function() {
   initializeLiff('1657422850-4dMOevYl');
 }
 
-const xurl = "https://script.google.com/macros/s/AKfycbyD8kN9xteg87TbSTqoE8jIOuDsw94b4H1otizZPF5r9GvTOCCogAjLi92J9uCRX6NUPg/exec";
+const xurl = "     *******";
 
 /**
 function checks(){
